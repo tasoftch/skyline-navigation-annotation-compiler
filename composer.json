@@ -1,6 +1,6 @@
 {
   "name": "skyline/navigation-annotation-compiler",
-  "license": "BSD-3-New",
+  "license": "BSD-3-Clause",
   "authors": [
     {
       "name": "Thomas Abplanalp",
